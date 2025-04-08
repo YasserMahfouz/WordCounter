@@ -1,0 +1,40 @@
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Words Counter.csproj.GenerateResource.Cache
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Words Counter.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+C:\Users\Programmer\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\word counter\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\word counter\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\word counter\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\word counter\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\word counter\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\word counter\WindowsFormsApplication2\obj\Debug\Words Counter.csprojAssemblyReference.cache
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\word counter\WindowsFormsApplication2\obj\Debug\Words Counter.csproj.GenerateResource.cache
+D:\word counter\WindowsFormsApplication2\obj\Debug\Words Counter.csproj.CoreCompileInputs.cache
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\word counter\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
+D:\word counter - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\word counter - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.manifest
+D:\word counter - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.application
+D:\word counter - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\word counter - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\Words Counter.csprojResolveAssemblyReference.cache
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\Words Counter.csproj.GenerateResource.Cache
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.manifest
+D:\word counter - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.application
